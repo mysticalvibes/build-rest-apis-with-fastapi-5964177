@@ -34,3 +34,4 @@
 	"onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc", //Set Terminal Prompt to $
 	"postCreateCommand": "sh .devcontainer/startup.sh"
 }
+
